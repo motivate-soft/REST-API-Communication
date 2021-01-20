@@ -1,0 +1,9 @@
+E:\WE\RCI\WorkSpaces\RESTAPI\GUI\GUI\bin\Debug\GUI.exe.config
+E:\WE\RCI\WorkSpaces\RESTAPI\GUI\GUI\bin\Debug\GUI.exe
+E:\WE\RCI\WorkSpaces\RESTAPI\GUI\GUI\bin\Debug\GUI.pdb
+E:\WE\RCI\WorkSpaces\RESTAPI\GUI\GUI\obj\Debug\GUI.Form1.resources
+E:\WE\RCI\WorkSpaces\RESTAPI\GUI\GUI\obj\Debug\GUI.Properties.Resources.resources
+E:\WE\RCI\WorkSpaces\RESTAPI\GUI\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+E:\WE\RCI\WorkSpaces\RESTAPI\GUI\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+E:\WE\RCI\WorkSpaces\RESTAPI\GUI\GUI\obj\Debug\GUI.exe
+E:\WE\RCI\WorkSpaces\RESTAPI\GUI\GUI\obj\Debug\GUI.pdb
